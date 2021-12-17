@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "배포테스트용/1.0.0": {
+        "runtime": {
+          "배포테스트용.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "배포테스트용/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
